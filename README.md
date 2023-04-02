@@ -21,3 +21,10 @@ SEE
 F. Fun random facts about the number of IPv6 addresses
 Q: Quit
 
+Libraries required:
+import ipaddress
+import sys
+import random
+import socket
+import requests
+import dns.resolver
