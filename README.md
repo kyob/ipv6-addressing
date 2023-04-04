@@ -1,6 +1,15 @@
 # ipv6-addressing
 Python program to help learn about IPv6 addresses
 
+YouTube Video demonstrating this program:
+https://www.youtube.com/playlist?list=PLMLm7-g0V0kfGg8g8KutNFK7rS3laA9QQ
+
+Book:
+IPv6 Fundamentals: A Straightforward Approach to Learning IPv6
+by Rick Graziani
+Cisco Press
+https://www.amazon.com/IPv6-Fundamentals-Straightforward-Approach-Understanding/dp/1587144778
+
 This program is intended to help you learn about IPv6 addresses.
 The menu includes:
 
